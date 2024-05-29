@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andrewsafe
-- 👀 I’m interested in codes and vibes
-- 🌱 I’m currently learning all of the technological languages. I am trying to become a supercomputer.
-- 💞️ I’m looking to collaborate on any projects that are pushing the current boundaries.
-- 📫 How to reach me - currently not trying to be contacted........sorry about that.
+- 👀 I’m interested in some stuff here, some stuff there
+- 🌱 Full-Snack Developer
+- 💞️ I usually work with Sameer, like all the time at this point lol (I'm better than him).
+- 📫 How to reach me - https://www.linkedin.com/in/tylernoble2654
 
 <!---
 andrewsafe/andrewsafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
