@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew
 - 👀 I’m interested in some stuff here, some stuff there
 - 🌱 Full-stack developer
-- 💞️ I usually work with Sam (I'm better than him).
+- 💞️ I usually work with Sameer (I'm better than him).
 - 📫 cloud
 
 <!---
