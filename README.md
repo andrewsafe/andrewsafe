@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @andrewsafe
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in some stuff here, some stuff there
 - 🌱 Full-stack developer
 - 💞️ I usually work with Sam (I'm better than him).
-- 📫 gt2rs
+- 📫 cloud
 
 <!---
 andrewsafe/andrewsafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
